@@ -1,0 +1,6 @@
+Coloca aquí las cinco fotografías de la galería 3D con estos nombres exactos:
+foto1.jpg
+foto2.jpg
+foto3.jpg
+foto4.jpg
+foto5.jpg
